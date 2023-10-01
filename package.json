@@ -1,0 +1,18 @@
+{
+  "name": "mqtt_server",
+  "version": "1.0.0",
+  "description": "A simple mqtt broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Ian Nalyanya",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.50.0",
+    "mqemitter": "^5.0.0"
+  }
+}
